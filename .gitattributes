@@ -1,0 +1,10 @@
+# Language detection rules
+# Text file normalization
+*.svg text
+**/*.py linguist-detectable
+*.min.js linguist-generated
+*.html linguist-vendored
+*.yml linguist-detectable=false
+*.sh text eol=lf
+yarn.lock linguist-generated
+# eof 023b75ec
